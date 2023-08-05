@@ -1,0 +1,70 @@
+.col1{
+    background: white;
+}
+
+.col2{
+    background: white;
+}
+
+.col3{
+    background: white;
+}
+
+.col4{
+    background: #330019;
+}
+.intro{
+	font-size: 1.4em;
+	color: #555555;
+	}
+	
+.foot{
+	font-size: 1.0em;
+	font-weight: 100;
+	color: #eeeeee;
+	}
+	
+.freebie{
+	font-size: 1.0em;
+	font-style: oblique;
+	font-weight: 900;
+	color: #DC143C;
+	}
+
+#sample{
+	font-size: 1.05em;/*16px*/
+	text-align: center;
+	border-color: #262626;
+	border-width: 0px;
+	border-radius: 8px;
+	padding: 15px 15px 15px 15px;
+	margin-top: 50px;
+	margin-left: 50px;
+	background-color: #f44336;
+	width: 8.92857em;/*150px;*/
+	}
+
+	
+#online{
+	font-size: 0.4em;
+	font-style: oblique;
+	color: #DC143C;
+	}	
+
+#vid{
+	border-color: #111;
+	border-width: 3px;
+	border-style: solid;
+	}
+	
+
+	
+
+tfoot {
+	font-size: 1.0em;
+	text-align:left;
+	color: #ff0000;
+}
+
+
+	

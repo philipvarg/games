@@ -1,0 +1,47 @@
+body {
+	font-size: 16px;
+	background: #ffeeff;
+}
+
+h2 {
+	font-weight: 200;
+	margin-left: 12px;
+}
+
+.tazratitle{
+	background: #606;
+	font-style: oblique;
+	text-align: center;
+	color: #ffeeff;
+	text-shadow: 4px 4px 7px white;
+	}
+
+.fun{
+	text-align: center;
+	color: #ffeeff;
+	text-shadow: 5px 3px 6px black;
+	}
+	
+.darkpurpleBkg{
+    background: #303;
+}
+
+.paratext{
+	color: black;
+	font-size: 1.12em;
+	line-height: 150%;
+	}
+	
+.moregames {
+	text-align: center;
+	color: red;
+}
+.foottext{
+	color: #ccc;
+	font-size: 0.8em;
+	}
+	
+.ltpurpleBkg{
+	background: #ffeeff;
+}
+	
